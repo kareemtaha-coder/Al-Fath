@@ -299,8 +299,8 @@
     }
   },
   "Arabic-course": {
-    "title": "📚 Al-Fath Institute presents: Arabic Language Course for Non-Native Speakers 🌍",
-    "description": "Do you want your children to learn Arabic fluently and connect with their cultural heritage? Al-Fath Institute offers a distinguished Arabic language course for non-native speakers, specifically designed for the children of Arab communities residing in America and Europe.",
+    "welcome": " 📚Al-Fath Institute 🌍",
+    "description": "presents: Arabic Language Course for Non-Native Speakers ",
     "why_choose": "Why choose Al-Fath Institute's course?",
     "points": [
       "A comprehensive curriculum covering all aspects of Arabic: reading, writing, speaking, and listening, ensuring a well-rounded education.",
@@ -317,12 +317,12 @@
         "Provide opportunities for community members to connect and share experiences."
       ]
     },
-    "call_to_action": "Reserve your spot now! Don't miss this valuable opportunity to teach your children Arabic and enable them to connect better with their community.",
-    "registration": "To register or learn more, please visit the registration page."
+    "call_to_action": "Don't miss this valuable opportunity to teach your children Arabic and enable them to connect better with their community.",
+    "registration": "register or learn more"
   },
   "Islamic-course": {
-    "title": "📚 Al-Fath Institute presents: Islamic Studies Course for Children 🌍",
-    "description": "Do you want your children to learn Islamic sciences in a comprehensive way? Al-Fath Institute offers a distinguished Islamic studies course for Arab children and youth residing in America and Europe.",
+    "welcome": "📚Al-Fath Institute🌍",
+    "description": " Al-Fath Institute offers a distinguished Islamic studies course for Arab children and youth residing in America and Europe.",
     "why_choose": "Why choose Al-Fath Institute's course?",
     "points": [
       "A comprehensive curriculum covering various aspects of Islamic sciences: Quran, Hadith, Fiqh, and Aqeedah, ensuring a well-rounded education.",
@@ -343,8 +343,8 @@
     "registration": "To register or learn more, please visit the registration page."
   },
   "Quran-course": {
-    "title": "📖 Al-Fath Institute presents: Qur'an Course for Children 🌍",
-    "description": "Do you want your children to learn how to recite and memorize the Qur'an correctly? Al-Fath Institute offers a distinguished Qur'an course for Arab children and youth residing in America and Europe.",
+    "welcome": "📖Al-Fath Institute🌍",
+    "description": "Al-Fath Institute offers a distinguished Qur'an course for Arab children and youth residing in America and Europe.",
     "why_choose": "Why choose Al-Fath Institute's Qur'an course?",
     "points": [
       "A comprehensive curriculum covering Qur'anic recitation, Tajweed, and memorization of various Surahs, catering to all levels.",
