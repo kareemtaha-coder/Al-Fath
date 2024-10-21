@@ -36,7 +36,6 @@
     "family": "Family",
     "contactUs": "Contact Us"
   },
-
   "registration": {
     "tag": "Quick Contact",
     "title": "Register with minimal information",
@@ -47,7 +46,6 @@
       "title": "Watch the introductory video",
       "subtitle": "Learn more about Alfath Institute"
     },
-
     "form": {
       "title": "Fill Your Registration",
       "firstName": {
@@ -199,57 +197,6 @@
       "IMAGE_ALT": "Subscription Image"
     }
   },
-  "HIRING": {
-    "LOADING": "Loading...",
-    "FIELD_SELECTION": {
-      "TITLE": "Select Your Field of Expertise",
-      "LABEL": "Choose a Field:",
-      "PLACEHOLDER": "-- Select a Field --"
-    },
-    "TEACHER_FORM": {
-      "TITLE": "Teacher Information",
-      "NAME": {
-        "LABEL": "Full Name",
-        "ERROR": "Name is required (minimum 2 characters)."
-      },
-      "EDUCATION": {
-        "LABEL": "Education",
-        "ERROR": "Education information is required."
-      },
-      "PHONE": {
-        "LABEL": "Phone Number",
-        "ERROR": "Please enter a valid 11-digit phone number."
-      }
-    }
-  },
-  "TEACHER_FORM": {
-    "NATIONAL_ID": {
-      "LABEL": "National ID",
-      "ERROR": "Please enter a valid 14-digit National ID."
-    },
-    "YEARS_OF_EXPERIENCE": {
-      "LABEL": "Years of Experience",
-      "ERROR": "Please enter a valid number of years (0-50)."
-    },
-    "DATE_OF_BIRTH": {
-      "LABEL": "Date of Birth",
-      "ERROR": "Please enter a valid date of birth (age must be between 18 and 65)."
-    },
-    "START_QUIZ_BUTTON": "Start Quiz",
-    "RESELECT_FIELD_BUTTON": "Reselect Field"
-  },
-  "QUIZ_RESULTS": {
-    "TITLE": "Quiz Results",
-    "PROMPT": "You have completed the quiz. Click 'Submit Results' to proceed.",
-    "RESTART_BUTTON": "Restart Quiz",
-    "RESELECT_FIELD_BUTTON": "Reselect Field",
-    "SUBMIT_BUTTON": "Submit Results"
-  },
-  "SUBMISSION_CONFIRMATION": {
-    "TITLE": "Thank You!",
-    "MESSAGE": "Your information and quiz results have been submitted successfully.",
-    "SCORE": "Final Score: {{ score }} / {{ total }}"
-  },
   "MODAL": {
     "TITLE": "Let's Connect!",
     "CLOSE": "Close",
@@ -363,5 +310,437 @@
     },
     "call_to_action": "Reserve your spot now! Don't miss this valuable opportunity to teach your children how to recite and memorize the Qur'an, and strengthen their connection to their faith.",
     "registration": "To register or learn more, please visit the registration page."
-  }
+  },
+  "HIRING-Teacher": {
+    "LOADING": "Loading...",
+    "TEACHER_FORM": {
+      "TITLE": "Teacher Application Form",
+      "NAME": {
+        "LABEL": "Full Name",
+        "ERROR": "Name is required and must be at least 2 characters"
+      },
+      "EDUCATION": {
+        "LABEL": "Education",
+        "ERROR": "Education is required"
+      },
+      "FIELDS": {
+        "LABEL": "Select Fields (you can choose multiple fields)",
+        "ERROR": "At least one field must be selected"
+      },
+      "PHONE": {
+        "LABEL": "Phone Number",
+        "ERROR": "Valid phone number is required"
+      },
+      "NATIONAL_ID": {
+        "LABEL": "National ID",
+        "ERROR": "Valid 14-digit national ID is required"
+      },
+      "YEARS_OF_EXPERIENCE": {
+        "LABEL": "Years of Experience",
+        "ERROR": "Years of experience must be between 0 and 50"
+      },
+      "DATE_OF_BIRTH": {
+        "LABEL": "Date of Birth",
+        "ERROR": "You must be between 18 and 65 years old"
+      }
+    },
+    "START_QUIZ_BUTTON": "Start Quiz",
+    "RESET_BUTTON": "Reset Form"
+  },
+  "QUIZ": {
+    "TITLE": "Quiz",
+    "QUESTION": "Question {{number}} of {{total}}",
+    "TIME_LEFT": "Time Left: {{seconds}} seconds",
+    "END_QUIZ": "End Quiz"
+  },
+  "QUIZ_RESULTS": {
+    "TITLE": "Quiz Results",
+    "SCORE": "Your Score: {{score}} out of {{total}}",
+    "PROMPT": "What would you like to do now?",
+    "RESTART_BUTTON": "Restart Quiz",
+    "RESET_BUTTON": "Reset Form",
+    "SUBMIT_BUTTON": "Submit Application"
+  },
+  "SUBMISSION_CONFIRMATION": {
+    "TITLE": "Submission Confirmation",
+    "MESSAGE": "Your application has been submitted successfully.",
+    "SCORE": "Your Final Score: {{score}} out of {{total}}"
+  },
+  "FIELDS": {
+    "FIELD1": "Mathematics",
+    "FIELD2": "Science",
+    "FIELD3": "English",
+    "FIELD4": "History"
+  },
+  "QUESTIONS": {
+    "FIELD1": {
+      "Q1": {
+        "question": "What is the value of π (Pi) to two decimal places?",
+        "options": ["3.14", "3.41", "3.12", "3.15"],
+        "correctAnswer": 0
+      },
+      "Q2": {
+        "question": "What is the square root of 144?",
+        "options": ["12", "14", "10", "16"],
+        "correctAnswer": 0
+      },
+      "Q3": {
+        "question": "What is the result of 7 × 8?",
+        "options": ["54", "56", "58", "52"],
+        "correctAnswer": 1
+      },
+      "Q4": {
+        "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+        "options": ["32", "24", "30", "28"],
+        "correctAnswer": 0
+      },
+      "Q5": {
+        "question": "What is the sum of the angles in a triangle?",
+        "options": ["180 degrees", "360 degrees", "90 degrees", "270 degrees"],
+        "correctAnswer": 0
+      },
+      "Q6": {
+        "question": "What is the next prime number after 7?",
+        "options": ["11", "13", "9", "15"],
+        "correctAnswer": 0
+      },
+      "Q7": {
+        "question": "What is the square of 9?",
+        "options": ["81", "72", "64", "91"],
+        "correctAnswer": 0
+      },
+      "Q8": {
+        "question": "How many sides does a triangle have?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": 0
+      },
+      "Q9": {
+        "question": "What is the result of 100 ÷ 5?",
+        "options": ["20", "25", "15", "30"],
+        "correctAnswer": 0
+      },
+      "Q10": {
+        "question": "What is the value of 3²?",
+        "options": ["9", "6", "12", "15"],
+        "correctAnswer": 0
+      },
+      "Q11": {
+        "question": "What is the square root of 169?",
+        "options": ["13", "11", "12", "14"],
+        "correctAnswer": 0
+      },
+      "Q12": {
+        "question": "What is the result of 9 + 5 × 3?",
+        "options": ["24", "14", "29", "18"],
+        "correctAnswer": 0
+      },
+      "Q13": {
+        "question": "What is the sum of numbers from 1 to 10?",
+        "options": ["55", "50", "45", "40"],
+        "correctAnswer": 0
+      },
+      "Q14": {
+        "question": "How many right angles are in a rectangle?",
+        "options": ["4", "3", "2", "1"],
+        "correctAnswer": 0
+      },
+      "Q15": {
+        "question": "What is the result of 15 × 15?",
+        "options": ["225", "250", "275", "200"],
+        "correctAnswer": 0
+      },
+      "Q16": {
+        "question": "Which number is an even number?",
+        "options": ["4", "5", "7", "9"],
+        "correctAnswer": 0
+      },
+      "Q17": {
+        "question": "What is the value of 5³?",
+        "options": ["125", "25", "15", "100"],
+        "correctAnswer": 0
+      },
+      "Q18": {
+        "question": "What is the next number in the sequence: 1, 3, 6, 10, ...?",
+        "options": ["15", "14", "12", "16"],
+        "correctAnswer": 0
+      },
+      "Q19": {
+        "question": "What is 50% of 200?",
+        "options": ["100", "150", "50", "200"],
+        "correctAnswer": 0
+      },
+      "Q20": {
+        "question": "What is the number that equals 5 × 5?",
+        "options": ["25", "20", "15", "30"],
+        "correctAnswer": 0
+      }
+    },
+    "FIELD2": {
+      "Q1": {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H₂O", "CO₂", "O₂", "N₂"],
+        "correctAnswer": 0
+      },
+      "Q2": {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Jupiter", "Saturn", "Mars", "Mercury"],
+        "correctAnswer": 0
+      },
+      "Q3": {
+        "question": "What process do plants use to make food?",
+        "options": [
+          "Photosynthesis",
+          "Respiration",
+          "Transpiration",
+          "Absorption"
+        ],
+        "correctAnswer": 0
+      },
+      "Q4": {
+        "question": "What element has the symbol 'Fe'?",
+        "options": ["Iron", "Copper", "Aluminum", "Gold"],
+        "correctAnswer": 0
+      },
+      "Q5": {
+        "question": "What is the unit of measurement for electric current?",
+        "options": ["Ampere", "Volt", "Watt", "Ohm"],
+        "correctAnswer": 0
+      },
+      "Q6": {
+        "question": "What organ pumps blood in the body?",
+        "options": ["Heart", "Lungs", "Kidneys", "Brain"],
+        "correctAnswer": 0
+      },
+      "Q7": {
+        "question": "Which part of the plant is responsible for breathing?",
+        "options": ["Leaves", "Roots", "Flowers", "Stems"],
+        "correctAnswer": 0
+      },
+      "Q8": {
+        "question": "What is the largest animal in the world?",
+        "options": ["Blue whale", "Elephant", "Crocodile", "Dinosaur"],
+        "correctAnswer": 0
+      },
+      "Q9": {
+        "question": "What is the uppermost layer of the atmosphere?",
+        "options": ["Stratosphere", "Troposphere", "Mesosphere", "Exosphere"],
+        "correctAnswer": 0
+      },
+      "Q10": {
+        "question": "Which parts of a plant move toward light?",
+        "options": ["Buds", "Roots", "Leaves", "Flowers"],
+        "correctAnswer": 0
+      },
+      "Q11": {
+        "question": "What organ produces insulin in the human body?",
+        "options": ["Pancreas", "Liver", "Heart", "Stomach"],
+        "correctAnswer": 0
+      },
+      "Q12": {
+        "question": "What are the rocky planets in the solar system?",
+        "options": [
+          "Mercury, Venus, Earth, Mars",
+          "Jupiter, Saturn, Uranus, Neptune",
+          "Venus, Mars, Earth, Neptune",
+          "Mars, Saturn, Mercury, Neptune"
+        ],
+        "correctAnswer": 0
+      },
+      "Q13": {
+        "question": "What is the most abundant element in the atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon"],
+        "correctAnswer": 0
+      },
+      "Q14": {
+        "question": "What is the structure of DNA?",
+        "options": [
+          "Double helix",
+          "Single strand",
+          "Closed loop",
+          "Open network"
+        ],
+        "correctAnswer": 0
+      },
+      "Q15": {
+        "question": "Which muscle is responsible for breathing?",
+        "options": ["Diaphragm", "Quadriceps", "Heart muscle", "Thigh muscle"],
+        "correctAnswer": 0
+      },
+      "Q16": {
+        "question": "What is the standard unit for measuring heat energy?",
+        "options": ["Joule", "Watt", "Kilogram", "Ohm"],
+        "correctAnswer": 0
+      },
+      "Q17": {
+        "question": "What gas do plants take in during photosynthesis?",
+        "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 0
+      },
+      "Q18": {
+        "question": "What organ pumps blood in animals?",
+        "options": ["Heart", "Lungs", "Brain", "Muscles"],
+        "correctAnswer": 0
+      },
+      "Q19": {
+        "question": "What element has the symbol 'O'?",
+        "options": ["Oxygen", "Hydrogen", "Nitrogen", "Iron"],
+        "correctAnswer": 0
+      },
+      "Q20": {
+        "question": "What organ produces blood in the human body?",
+        "options": ["Bone marrow", "Liver", "Heart", "Lungs"],
+        "correctAnswer": 0
+      }
+    },
+    "FIELD3": {
+      "Q1": {
+        "question": "What is the capital of Egypt?",
+        "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+        "correctAnswer": 0
+      },
+      "Q2": {
+        "question": "What country is famous for the Eiffel Tower?",
+        "options": ["France", "Italy", "Germany", "Spain"],
+        "correctAnswer": 0
+      },
+      "Q3": {
+        "question": "What is the largest continent by area?",
+        "options": ["Asia", "Africa", "Europe", "America"],
+        "correctAnswer": 0
+      },
+      "Q4": {
+        "question": "What country is known as the Land of the Rising Sun?",
+        "options": ["Japan", "China", "Thailand", "India"],
+        "correctAnswer": 0
+      },
+      "Q5": {
+        "question": "Which city is the Statue of Liberty located in?",
+        "options": ["New York", "London", "Paris", "Berlin"],
+        "correctAnswer": 0
+      }
+    },
+    "FIELD4": {
+      "Q1": {
+        "question": "What is the atomic number of Hydrogen?",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": 0
+      },
+      "Q2": {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "correctAnswer": 0
+      },
+      "Q3": {
+        "question": "What is the process of water turning into vapor called?",
+        "options": [
+          "Evaporation",
+          "Condensation",
+          "Sublimation",
+          "Precipitation"
+        ],
+        "correctAnswer": 0
+      },
+      "Q4": {
+        "question": "Which gas do humans exhale during respiration?",
+        "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 0
+      },
+      "Q5": {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Mitochondria", "Nucleus", "Ribosome", "Golgi apparatus"],
+        "correctAnswer": 0
+      },
+      "Q6": {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+        "correctAnswer": 0
+      },
+      "Q7": {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Pb", "Fe"],
+        "correctAnswer": 0
+      },
+      "Q8": {
+        "question": "What force keeps objects grounded on Earth?",
+        "options": ["Gravity", "Magnetism", "Friction", "Buoyancy"],
+        "correctAnswer": 0
+      },
+      "Q9": {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Skin", "Heart", "Liver", "Lungs"],
+        "correctAnswer": 0
+      },
+      "Q10": {
+        "question": "Which element is necessary for combustion?",
+        "options": ["Oxygen", "Nitrogen", "Carbon", "Helium"],
+        "correctAnswer": 0
+      },
+      "Q11": {
+        "question": "What is the main gas found in the air we breathe?",
+        "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+        "correctAnswer": 0
+      },
+      "Q12": {
+        "question": "What planet is known for its rings?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "correctAnswer": 0
+      },
+      "Q13": {
+        "question": "Which part of the cell contains genetic material?",
+        "options": ["Nucleus", "Mitochondria", "Cytoplasm", "Ribosome"],
+        "correctAnswer": 0
+      },
+      "Q14": {
+        "question": "What type of blood cells fight off infections?",
+        "options": [
+          "White blood cells",
+          "Red blood cells",
+          "Platelets",
+          "Plasma"
+        ],
+        "correctAnswer": 0
+      },
+      "Q15": {
+        "question": "What is the unit of measure for force?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "correctAnswer": 0
+      },
+      "Q16": {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+          "Potential energy",
+          "Kinetic energy",
+          "Thermal energy",
+          "Electrical energy"
+        ],
+        "correctAnswer": 0
+      },
+      "Q17": {
+        "question": "What is the smallest particle of an element?",
+        "options": ["Atom", "Molecule", "Electron", "Proton"],
+        "correctAnswer": 0
+      },
+      "Q18": {
+        "question": "What part of the plant conducts photosynthesis?",
+        "options": ["Leaves", "Roots", "Stem", "Flowers"],
+        "correctAnswer": 0
+      },
+      "Q19": {
+        "question": "What is the speed of light?",
+        "options": [
+          "299,792,458 meters per second",
+          "150,000,000 meters per second",
+          "300,000,000 meters per second",
+          "1,000,000 meters per second"
+        ],
+        "correctAnswer": 0
+      },
+      "Q20": {
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "CaCO3", "MgSO4"],
+        "correctAnswer": 0
+      }
+    }
+  },
+  "SUBMISSION_ERROR": "An error occurred while submitting the data. Please try again."
 }
