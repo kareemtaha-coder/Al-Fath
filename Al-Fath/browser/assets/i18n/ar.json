@@ -97,21 +97,21 @@
     "title": "استكشف دوراتنا",
     "cards": [
       {
-        "image": "../../../../assets/images/hero.png",
+        "image": "../../../assets/images/Arabic.png",
         "title": "دورة اللغة العربية",
         "description": "في معهد الفتح، نجعل تعلم اللغة العربية سهلاً وممتعاً. نحن نضيء الطريق نحو التواصل الفعّال.",
         "buttonLabel": "استكشف الدورة",
         "link": "arabic-course"
       },
       {
-        "image": "assets/images/hero.png",
+        "image": "../../../assets/images/Praying_boy-scaled.jpg",
         "title": "دورة تعليم القرأن",
         "description": "في معهد الفتح، نجعل تعلم القرآن الكريم تجربة روحية ملهمة. نحن نضيء الطريق نحو الإيمان والتفاني.",
         "buttonLabel": "استكشف الدورة",
         "link": "quran-course"
       },
       {
-        "image": "assets/images/hero.png",
+        "image": "../../../assets/images/Islamic.avif",
         "title": "دورة العلوم الشرعية",
         "description": "في معهد الفتح، نجعل تعلم العلوم الإسلامية رحلة ملهمة نحو فهم عميق. نحن نضيء الطريق نحو الحكمة والمعرفة.",
         "buttonLabel": "استكشف الدورة",
