@@ -96,21 +96,21 @@
     "title": "Explore Our Courses",
     "cards": [
       {
-        "image": "../../../../assets/images/hero.png",
+        "image": "../../../assets/images/Arabic.png",
         "title": "Arabic Course",
         "description": "At Al-Fateh Institute, we make learning Arabic easy and enjoyable. We light the way to effective communication. ",
         "buttonLabel": "Explore Course",
         "link": "arabic-course"
       },
       {
-        "image": "assets/images/hero.png",
+        "image": "../../../assets/images/Praying_boy-scaled.jpg",
         "title": "Qur'an Course",
         "description": "At Al-Fateh Institute, we make learning the Holy Quran an inspiring spiritual experience. We light the way to faith and devotion",
         "buttonLabel": "Explore Course",
         "link": "quran-course"
       },
       {
-        "image": "assets/images/hero.png",
+        "image": "../../../assets/images/Islamic.avif",
         "title": "Islamic Course",
         "description": "At Al-Fateh Institute, we make learning Islamic sciences an inspiring journey towards deep understanding. We light the way to wisdom. ",
         "buttonLabel": "Explore Course",
