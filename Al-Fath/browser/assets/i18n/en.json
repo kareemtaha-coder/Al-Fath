@@ -36,6 +36,35 @@
     "family": "Family",
     "contactUs": "Contact Us"
   },
+  "INSTITUTE": {
+    "TITLE": "Al-Fath Institute for Arabic Language",
+    "DESCRIPTION_1": "Our lessons are carefully designed to align with your individual goals, whether for professional life, travel to any Arab country, reading in Arabic, exploring Arab culture, Islamic culture, or religious studies.",
+    "DESCRIPTION_2": "Individual language training at Al-Fath Institute helps you achieve your goals with the support and motivation of a personal teacher who possesses high competency in teaching Arabic.",
+    "DESCRIPTION_3": "Enjoy interactive educational classes designed to build trust between you and the institute and help you learn effectively and enjoyably. Educational classes at Al-Fath Institute are the key to improving fluency in learning Arabic, memorizing the Holy Quran, and studying Islamic sciences.",
+    "START_LEARNING": "Start Your Journey",
+    "LEARN_MORE": "Explore Programs"
+  },
+  "FEATURES": {
+    "EXPERT_TEACHERS": "Expert Teachers",
+    "EXPERT_TEACHERS_DESC": "Learn from certified native Arabic speakers with years of teaching experience",
+    
+    "INTERACTIVE_LEARNING": "Interactive Learning",
+    "INTERACTIVE_LEARNING_DESC": "Engage in dynamic, interactive sessions designed for maximum retention",
+    
+    "PERSONALIZED": "Personalized Approach",
+    "PERSONALIZED_DESC": "Customized learning plans tailored to your specific goals and pace",
+    
+    "ISLAMIC_STUDIES": "Islamic Studies",
+    "ISLAMIC_STUDIES_DESC": "Comprehensive programs combining Arabic language with Islamic sciences",
+    
+    "BENEFITS": {
+      "TITLE": "Why Choose Al-Fath",
+      "FLEXIBLE": "Flexible Schedule",
+      "CERTIFIED": "Certified Programs",
+      "MODERN": "Modern Teaching Methods",
+      "PRACTICE": "Regular Practice Sessions"
+    }
+  },
   "registration": {
     "tag": "Quick Contact",
     "title": "Register with minimal information",
