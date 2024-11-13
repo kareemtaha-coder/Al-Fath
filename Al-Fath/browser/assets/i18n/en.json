@@ -48,6 +48,43 @@
     "DESCRIPTION_3": "Enjoy interactive educational classes designed to build trust between you and the institute and help you learn effectively and enjoyably. Educational classes at Al-Fath Institute are the key to improving fluency in learning Arabic, memorizing the Holy Quran, and studying Islamic sciences.",
     "START_LEARNING": "Start Your Journey",
     "LEARN_MORE": "Explore Programs"
+  }, "feature": {
+    "header": {
+      "title": "Why Parents and Children Love Us"   
+     },
+    "mainFeature": {
+      "description": "Al-Fath Educational School combines traditional Arabic and Islamic education with modern teaching methodologies, making it a pioneer in distance learning for non-native Arabic speakers."
+    },
+    "videos": {
+      "titles": {
+        "video1": "Getting Started Guide",
+        "video2": "Advanced Features Tutorial",
+        "video3": "Success Stories"
+      },
+      "descriptions": {
+        "video1": "Learn how to make the most of our platform in under 5 minutes",
+        "video2": "Discover powerful advanced features to supercharge your workflow",
+        "video3": "See how others have achieved success using our platform"
+      }
+    },
+    "featuresList": {
+      "feature0": {
+        "title": "Why Parents Choose Al-Fath Educational School",
+        "description": "The school plays a significant role in instilling the foundations and pillars of the relationship between students, their parents, and the community, as well as its ethics and qualities. On the other hand, we see the community's support for the school and its assistance, believing in its importance and its great role in influencing the community's variables, directions, and future as well."
+      },
+      "feature1": {
+        "title": "Arabic Language Excellence",
+        "description": "Specialized curriculum for teaching Arabic to non-native speakers through innovative distance learning methods"
+      },
+      "feature2": {
+        "title": "Quranic Studies",
+        "description": "Comprehensive Quran memorization programs with certified instructors and personalized learning paths"
+      },
+      "feature3": {
+        "title": "Islamic Sciences",
+        "description": "In-depth Islamic studies curriculum covering essential religious knowledge and principles"
+      }
+    }
   },
   "FEATURES": {
     "EXPERT_TEACHERS": "Expert Teachers",
@@ -153,13 +190,14 @@
       }
     ]
   },
+ 
   "testimonials": {
     "title": "What Parents Say About Us",
-    "popularSubjectLabel": "Popular Subject",
-    "headerTitle": "Provide IT & Tech Subject For You",
-    "headerSubtitle": "Construction is a general term meaning the art and science to form systems organizations, and comes from Latin Construction is",
-    "headerQuote": "Construction is a general term meaning the art and science to form systems organizations, and comes from Latin construction and Old",
-    "exploreButton": "Contact To Show More →"
+    "popularSubjectLabel": "Al-Fath Institute",
+    "headerTitle": "Today's Children Will Be Tomorrow's Leaders and the Future We Must Invest In",
+    "headerSubtitle": "Al-Fath Educational School plays an active role in nurturing students and strengthening their skills within the community. As the foundational support after the family, the school is essential in educating, developing talents",
+    "headerQuote": "Many people may overlook the importance of Al-Fath Educational School and its significant role in community development, neglecting the idea of enrolling their children. Often considered secondary to the main educational system in their country, whether in America or Europe, the Arabic language and Islamic teachings may be undervalued. However, this neglect could affect children's Arabic and Islamic identity.",
+    "exploreButton": "Contact Us to Learn More"
   },
   "features": {
     "imageUrl": "assets/images/hero.png",
